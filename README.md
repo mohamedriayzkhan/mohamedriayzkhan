@@ -1,7 +1,7 @@
-## Hi 👋 I'm Mohamed Riayz
+I'm Mohamed Riayz
 
 🎯 Aspiring Data Scientist | ML & Python Enthusiast  
-📊 Turning data into insights | 🚀 Deploying ML models with Streamlit  
+📊 Turning data into insights | Deploying ML models with Streamlit  
 
 ### 🔧 Tech Stack
 - Python, Pandas, NumPy
@@ -9,13 +9,13 @@
 - Streamlit, Flask, Django
 - MongoDB, Git, GitHub
 
-### 📌 Featured Projects
+### Featured Projects
 - KNN Classifier Web App (Streamlit)
 - Linear Regression Deployment
 - K-Means Clustering Analysis
 - Random Forest Classification Project
 
-### 📈 What I'm Currently Learning
+### What I'm Currently Learning
 - Model evaluation & tuning
 - End-to-end ML pipelines
 - Better data visualization
