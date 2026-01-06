@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋 I'm Mohamed Riayz
 
-<!--
-**mohamedriayzkhan/mohamedriayzkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist | ML & Python Enthusiast  
+📊 Turning data into insights | 🚀 Deploying ML models with Streamlit  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Python, Pandas, NumPy
+- scikit-learn, ML Algorithms
+- Streamlit, Flask, Django
+- MongoDB, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- KNN Classifier Web App (Streamlit)
+- Linear Regression Deployment
+- K-Means Clustering Analysis
+- Random Forest Classification Project
+
+### 📈 What I'm Currently Learning
+- Model evaluation & tuning
+- End-to-end ML pipelines
+- Better data visualization
+
+📫 Reach me: [LinkedIn link] | [Email]
