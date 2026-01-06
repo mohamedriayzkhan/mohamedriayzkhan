@@ -20,4 +20,4 @@
 - End-to-end ML pipelines
 - Better data visualization
 
-📫 Reach me: [LinkedIn link] | [Email]
+📫 Reach me: [www.linkedin.com/in/mohamed-riayz-khan-96a6b6327] | [mohamedriayz14@gmail.com]
