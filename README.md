@@ -3,7 +3,7 @@ I'm Mohamed Riayz
 🎯 Aspiring Data Scientist | ML & Python Enthusiast  
 📊 Turning data into insights | Deploying ML models with Streamlit  
 
-### 🔧 Tech Stack
+### Tech Stack
 - Python, Pandas, NumPy
 - scikit-learn, ML Algorithms
 - Streamlit, Flask, Django
