@@ -1,23 +1,37 @@
-I'm Mohamed Riayz
+## Hi 👋 I'm Mohamed Riayz
 
-🎯 Aspiring Data Scientist | ML & Python Enthusiast  
-📊 Turning data into insights | Deploying ML models with Streamlit  
+🎯 **Aspiring Data Scientist | Machine Learning | Python Developer**  
+📊 Passionate about transforming data into insights and deploying ML models as real-world applications
 
-### Tech Stack
-- Python, Pandas, NumPy
-- scikit-learn, ML Algorithms
-- Streamlit, Flask, Django
-- MongoDB, Git, GitHub
+---
 
-### Featured Projects
-- KNN Classifier Web App (Streamlit)
-- Linear Regression Deployment
-- K-Means Clustering Analysis
-- Random Forest Classification Project
+### 🧠 Skills & Tech Stack
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy  
+- **Machine Learning:** scikit-learn, KNN, Linear Regression, Random Forest, Clustering  
+- **Deployment:** Streamlit, Flask  
+- **Backend:** Django, MongoDB  
+- **Tools:** Git, GitHub
 
-### What I'm Currently Learning
-- Model evaluation & tuning
-- End-to-end ML pipelines
-- Better data visualization
+---
 
-📫 Reach me: [www.linkedin.com/in/mohamed-riayz-khan-96a6b6327] | [mohamedriayz14@gmail.com]
+### 🚀 Featured Projects
+- **KNN Classifier Web App** – Deployed ML classification model using Streamlit  
+- **Linear Regression Deployment** – End-to-end regression model with live prediction  
+- **Customer Segmentation (K-Means)** – Unsupervised learning & clustering analysis  
+- **Random Forest Classification** – Feature importance & performance evaluation  
+
+👉 *More projects available in pinned repositories*
+
+---
+
+### 📚 Currently Learning
+- Model evaluation & hyperparameter tuning  
+- End-to-end ML pipelines  
+- Advanced data visualization techniques  
+
+---
+
+### 📫 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/mohamed-riayz-khan-96a6b6327  
+📧 Email: mohamedriayz14@gmail.com
